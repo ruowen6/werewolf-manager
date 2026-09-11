@@ -1,0 +1,29 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Node / Vite ###
+node_modules/
+dist/
+coverage/
+*.local
+
+### Environment ###
+.env
+.env.*
+!.env.example
+
+### Editors ###
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+### Docs for stage recording ###
+docs/
+
+### Logs ###
+*.log
+npm-debug.log*

@@ -1,0 +1,7 @@
+dist
+coverage
+node_modules
+package-lock.json
+
+# Existing product document is intentionally preserved as authored.
+docs/requirements.md
